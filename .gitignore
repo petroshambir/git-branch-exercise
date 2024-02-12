@@ -1,0 +1,5 @@
+# ignore config folder and settings.json file any *.log
+config
+*.json
+*.log
+*.file
