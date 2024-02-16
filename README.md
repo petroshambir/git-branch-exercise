@@ -6,3 +6,4 @@ Add another line
 
 add another one line
 
+git add clone
